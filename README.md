@@ -21,6 +21,15 @@ Here are some ideas to get you started:
     <td>Languages</td>
     <td align="center" height="88" width="88">
       <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+        width="35"
+        height="35"
+        alt="JAVASCRIPT"
+      />
+      <br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" height="88" width="88">
+      <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
         width="35"
         height="35"
@@ -36,15 +45,6 @@ Here are some ideas to get you started:
         alt="CSS"
       />
       <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        width="35"
-        height="35"
-        alt="JAVASCRIPT"
-      />
-      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="88" width="88">
       <img
@@ -97,21 +97,21 @@ Here are some ideas to get you started:
     <td>Frameworks & Libraries</td>    
     <td align="center" height="88" width="88">
       <img
-        src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"
-        width="35"
-        height="35"
-        alt="REACT"
-      />
-      <br /><strong>React</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
         src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"
         width="35"
         height="35"
         alt="NODEJS"
       />
       <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="88" width="88">
+      <img
+        src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png"
+        width="35"
+        height="35"
+        alt="REACT"
+      />
+      <br /><strong>React</strong>
     </td>
     <td align="center" height="88" width="88">
       <img
@@ -152,6 +152,15 @@ Here are some ideas to get you started:
     
   <tr>
     <td>Databases</td>
+      <td align="center" height="88" width="88">
+        <img
+          src="https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltac81c4aa3529ee37/65fd965e8f4444482dc3a079/la1a2b2h67gwwqnvs-mdb-logos.svg"
+          width="35"
+          height="35"
+          alt="MongoDB"
+        />
+        <br /><strong>MongoDB</strong>
+      </td>
     <td align="center" height="88" width="88">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -169,15 +178,6 @@ Here are some ideas to get you started:
           alt="MYSQL"
         />
         <br /><strong>mySQL</strong>
-      </td>
-    <td align="center" height="88" width="88">
-        <img
-          src="https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltac81c4aa3529ee37/65fd965e8f4444482dc3a079/la1a2b2h67gwwqnvs-mdb-logos.svg"
-          width="35"
-          height="35"
-          alt="MongoDB"
-        />
-        <br /><strong>MongoDB</strong>
       </td>
   </tr>
   <tr>
