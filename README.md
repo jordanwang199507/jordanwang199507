@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hello! I'm Yu-Lin Wang a.k.a Jordan</h1>
-### Thank you for checking out my GitHub profile. I'm a full stack web developer that loves building frontend visuals. I enjoy exploring potential visual tools/libraries to enhance website experience.
+<h1>😄 Hello! I'm Yu-Lin Wang a.k.a Jordan</h1>
+###Thank you for checking out my GitHub profile. I'm a full stack web developer that loves building frontend visuals. I enjoy exploring potential visual tools/libraries to enhance website experience.
 
 ## My Stack
 <table>  
