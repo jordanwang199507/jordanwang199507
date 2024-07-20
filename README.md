@@ -84,7 +84,7 @@ Here are some ideas to get you started:
     </td>
         <td align="center" height="88" width="88">
       <img
-        src="https://sass-lang.com/assets/img/logos/logo.svg](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
+        src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
         width="35"
         height="35"
         alt="C++"
