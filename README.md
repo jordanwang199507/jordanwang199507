@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### 🧋 Welcome to my GitHub profile! I'm a full stack web developer that loves building frontend visuals. I enjoy exploring potential visual tools/libraries to enhance website experience.
 
 ## 🌱 About Me 
-I have a strong foundation in HTML, CSS, and JavaScript, with extensive experience in modern frontend frameworks such as React and Angular. My portfolio showcases a variety of projects, from simple landing pages to complex web applications
+I have a strong foundation in HTML, CSS, and JavaScript, with extensive experience in modern frontend frameworks such as React. My portfolio showcases a variety of projects, from simple landing pages to complex web applications
 
 ## 📘 My Stack
 <table>  
