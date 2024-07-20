@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 <h1>😄 Hello! I'm Yu-Lin Wang a.k.a Jordan</h1>
 
-### 📑 Welcome to my GitHub profile! I'm a full stack web developer that loves building frontend visuals. I enjoy exploring potential visual tools/libraries to enhance website experience.
+### 🧋 Welcome to my GitHub profile! I'm a full stack web developer that loves building frontend visuals. I enjoy exploring potential visual tools/libraries to enhance website experience.
 
-## About Me 
+## 🌱 About Me 
 I have a strong foundation in HTML, CSS, and JavaScript, with extensive experience in modern frontend frameworks such as React and Angular. My portfolio showcases a variety of projects, from simple landing pages to complex web applications
 
-## My Stack
+## 📘 My Stack
 <table>  
   <tr>
     <td>Languages</td>
@@ -248,7 +248,7 @@ I have a strong foundation in HTML, CSS, and JavaScript, with extensive experien
 </table>
 
 
-## Get in Touch
+## 🛰️ Get in Touch
 I’m always excited to connect with fellow developers and collaborate on new projects. Feel free to reach out to me via https://www.linkedin.com/in/jordan-yu-lin-wang-226b90102
 
 Thank you for visiting my GitHub profile. Happy coding!
