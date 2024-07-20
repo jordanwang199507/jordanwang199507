@@ -126,12 +126,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="88" width="88">
       <img
-        src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png"
+        src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png](https://cdn-icons-png.flaticon.com/512/3516/3516900.png"
         width="35"
         height="35"
-        alt="EXPRESS"
+        alt="Grails"
       />
-      <br /><strong>Rails</strong>
+      <br /><strong>Grails</strong>
     </td>
     <td align="center" height="88" width="88">
       <img
@@ -141,15 +141,6 @@ Here are some ideas to get you started:
         alt="EXPRESS"
       />
       <br /><strong>Bootstrap</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://mui.com/static/logo.png"
-        width="35"
-        height="35"
-        alt="EXPRESS"
-      />
-      <br /><strong>Material UI</strong>
     </td>
     
   <tr>
@@ -174,72 +165,14 @@ Here are some ideas to get you started:
       </td>
     <td align="center" height="88" width="88">
         <img
-          src="https://logowik.com/content/uploads/images/prisma2244.jpg"
+          src="https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltac81c4aa3529ee37/65fd965e8f4444482dc3a079/la1a2b2h67gwwqnvs-mdb-logos.svg"
           width="35"
           height="35"
-          alt="POSTGRESQL"
+          alt="MongoDB"
         />
-        <br /><strong>PRISMA</strong>
+        <br /><strong>MongoDB</strong>
       </td>
   </tr>
-  <tr>
-    <td>Testing</td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-        width="35"
-        height="35"
-        alt="CYPRESS"
-      />
-      <br /><strong>Cypress</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/storybook.png"
-        width="35"
-        height="35"
-        alt="STORYBOOK"
-      />
-      <br /><strong>Storybook</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-        width="35"
-        height="35"
-        alt="JEST"
-      />
-      <br /><strong>Jest</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg"
-        width="35"
-        height="35"
-        alt="MOCHA"
-      />
-      <br /><strong>Mocha</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://p7.hiclipart.com/preview/626/247/761/mocha-javascript-node-js-test-driven-development-assertion-chai-sheng.jpg"
-        width="35"
-        height="35"
-        alt="CHAI"
-      />
-      <br /><strong>Chai</strong>
-    </td>
-    <td align="center" height="88" width="88">
-      <img
-        src="https://cbabhusal.files.wordpress.com/2015/12/812ab30c5723956adcf8c1bbaf23e471143e1934.png"
-        width="35"
-        height="35"
-        alt="RSPEC"
-      />
-      <br /><strong>RSpec</strong>
-    </td>
-  </tr>  
-  
   <tr>
     <td>Design</td>
     <td align="center" height="88" min-width="88">
@@ -250,6 +183,24 @@ Here are some ideas to get you started:
         alt="FIGMA"
       />
       <br /><strong>Figma</strong>
+    </td>
+        <td align="center" height="88" min-width="88">
+      <img
+        src="https://yt3.googleusercontent.com/c8Cl0bqtAXpnh-2EloQQGiokLP2wr9o8rmF7CqUpZC7JGbd_JJW__kQL8EnGd8pFdspN79Jx2g=s900-c-k-c0x00ffffff-no-rj"
+        width="35"
+        height="35"
+        alt="Spline"
+      />
+      <br /><strong>Spline</strong>
+    </td>
+        <td align="center" height="88" min-width="88">
+      <img
+        src="https://download.blender.org/branding/community/blender_community_badge_white.png"
+        width="35"
+        height="35"
+        alt="Blender"
+      />
+      <br /><strong>Blender</strong>
     </td>
   </tr>
   
@@ -275,21 +226,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="88" min-width="88">
       <img
-        src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6G4-EPXi7nX3jIFCqmyJ7ss7kg6iY2X2XuQ&s"
         width="35"
         height="35"
-        alt="LINUX"
+        alt="BitBucket"
       />
-      <br /><strong>Netlify</strong>
-    </td>
-    <td align="center" height="88" min-width="88">
-      <img
-        src="https://railway.app/brand/logo-dark.svg"
-        width="35"
-        height="35"
-        alt="LINUX"
-      />
-      <br /><strong>Railway</strong>
+      <br /><strong>BitBucket</strong>
     </td>
   </tr>
 </table>
