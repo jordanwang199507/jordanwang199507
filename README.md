@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jordanwang199507/jordanwang199507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -126,7 +124,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" height="88" width="88">
       <img
-        src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/ruby-on-rails-512.png](https://cdn-icons-png.flaticon.com/512/3516/3516900.png"
+        src="https://grails.org/images/grails.png"
         width="35"
         height="35"
         alt="Grails"
