@@ -249,6 +249,6 @@ I have a strong foundation in HTML, CSS, and JavaScript, with extensive experien
 
 
 ## 🛰️ Get in Touch
-I’m always excited to network and work on new cool projects with developers! Feel free to reach out to me via https://www.linkedin.com/in/jordan-yu-lin-wang-226b90102
+Please feel free to reach out to me anytime via https://www.linkedin.com/in/jordan-yu-lin-wang-226b90102
 
 Thank you for checking out my GitHub!
