@@ -88,7 +88,7 @@ I have a strong foundation in HTML, CSS, and JavaScript, with extensive experien
     </td>
     <td align="center" height="88" width="88">
       <img
-        src="https://w7.pngwing.com/pngs/106/519/png-transparent-tailwind-css-hd-logo.png"
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNhoXisDruJMDAq3Ltd-wuaMW2lGxck9wAKw&s"
         width="35"
         height="35"
         alt="Tailwind"
