@@ -86,6 +86,15 @@ I have a strong foundation in HTML, CSS, and JavaScript, with extensive experien
       />
       <br /><strong>Sass</strong>
     </td>
+    <td align="center" height="88" width="88">
+      <img
+        src="https://images.viblo.asia/1e584999-0b5a-4189-9081-b9a41212265d.jpg"
+        width="35"
+        height="35"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
         <td align="center" height="88" width="88">
       <img
         src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"
@@ -107,6 +116,15 @@ I have a strong foundation in HTML, CSS, and JavaScript, with extensive experien
         alt="NODEJS"
       />
       <br /><strong>NodeJS</strong>
+    </td>
+    <td align="center" height="88" width="88">
+      <img
+        src="https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg"
+        width="35"
+        height="35"
+        alt="NextJS"
+      />
+      <br /><strong>NextJS</strong>
     </td>
     <td align="center" height="88" width="88">
       <img
